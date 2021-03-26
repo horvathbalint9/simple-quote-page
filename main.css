@@ -12,6 +12,9 @@ body {
   background: url('assets/22222.jpg') no-repeat center;
   background-size: cover;
   color: #333;
+  display: flex;
+  text-align: center;
+  justify-content: center;
 }
 
 .wrapper {
@@ -42,6 +45,9 @@ img {
   border-radius: 40%;
   filter: grayscale(80%);
   transition: all 1s ease-in-out;
+  display: flex;
+  text-align: center;
+  justify-content: center;
 }
 
 img:hover {
