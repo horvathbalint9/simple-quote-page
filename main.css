@@ -9,7 +9,7 @@ body {
 body {
   width: 100%;
   height: 100vh;
-  background: url('assets/freedom.jpg') no-repeat center;
+  background: url('assets/22222.jpg') no-repeat center;
   background-size: cover;
   color: #333;
 }
@@ -23,7 +23,8 @@ body {
 
 .quote {
   font-family: 'Julius Sans One', sans-serif;
-  font-size: 2.5rem; 
+  font-size: 2.5rem;
+  color: bisque; 
 }
 
 .author {
